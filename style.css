@@ -278,6 +278,10 @@
         background-color: #fff;
     }
 
+    .welcome {
+        background-attachment: scroll;
+    }
+
     *{
         font-size: 15px;
     }
@@ -285,7 +289,7 @@
     .welcome-text-main {
         text-align: center;
         font-size: 15px;
-        width: 70%;
+        width: 100%;
         margin: auto;
         margin-bottom: 30px;
     }
@@ -293,7 +297,7 @@
     .welcome-text-date {
         text-align: center;
         font-size: 18px;
-        width: 50%;
+        width: 100%;
         margin: auto;
         margin-bottom: 30px;
     }
