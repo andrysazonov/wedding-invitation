@@ -19,7 +19,7 @@
     h1 {
         text-align: center;
         font-size: 72px;
-        margin-bottom: 30px;
+        margin-bottom: 50px;
     }
 
     h3 {
@@ -143,8 +143,17 @@
         text-align: center;
     }
 
+    .organization{
+        text-align: center;
+    }
 
+    .lena{
+        background: url("img/lena.jpg") no-repeat top center / cover;
+    }
 
+    .inna{
+        background: url("img/inna.jpg") no-repeat top center / cover;
+    }
 
     .section-block {
         margin: 60px auto;
@@ -160,12 +169,61 @@
         border-radius: 50%;
     }
 
+    .org {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    }
+
     .colors {
         display: flex;
         gap: 20px;
         flex-wrap: wrap;
         margin: 30px auto;
         justify-content: center;
+    }
+
+    .orgs {
+        display: flex;
+        gap: 100px;
+        flex-wrap: wrap;
+        margin: 40px auto;
+        justify-content: center;
+
+    }
+    .transfer-descr{
+        max-width: 500px;
+        margin: auto;
+    }
+    .transfer{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 30px auto;
+        justify-content: space-between;
+    }
+    .transfer-descr p{
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .map{
+        max-width: 600px;
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    }
+    .orgs a{
+        text-decoration: none;
+        margin-top: 5px;
+    }
+    .orgs p{
+        margin-top: 5px;
+    }
+    .orgs div{
+        margin: auto;
+    }
+
+    .wishes p{
+        margin-bottom: 15px;
     }
 
     .peach {
@@ -243,7 +301,7 @@
     h1 {
         text-align: center;
         font-size: 32px;
-        margin-bottom: 30px;
+        margin-bottom: 40px;
     }
 
     h2 {
@@ -286,6 +344,6 @@
     h1 {
         text-align: center;
         font-size: 52px;
-        margin-bottom: 30px;
+        margin-bottom: 50px;
     }
 }
