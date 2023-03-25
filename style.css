@@ -92,7 +92,7 @@
         color: #fff;
         margin-bottom: 30px;
         /* background: url("./portrait.jpg"); */
-        background: url("./portrait.JPG") no-repeat top center / cover;
+        background: url("./portrait.jpg") no-repeat top center / cover;
         background-attachment: fixed;
         position: absolute;
         height: 100vh;
