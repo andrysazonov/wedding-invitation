@@ -114,8 +114,8 @@
 
     .action-item {
         display: grid;
-        grid-template-columns: auto auto;
-        grid-template-rows: auto auto;
+        grid-template-columns: auto 1fr;
+        grid-template-rows: auto 1fr;
         gap: 0;
         column-gap: 10px;
         grid-template-areas: "imgLine time"
@@ -132,7 +132,7 @@
     .time {
         grid-area: time;
         font-size: 25px;
-        align-self: self-end;
+        /* align-self: self-end; */
     }
 
     .description {
@@ -329,9 +329,9 @@
 
     .action-item {
 
-        display: grid;
+        /* display: grid;
         grid-template-columns: auto auto;
-        grid-template-rows: auto auto;
+        grid-template-rows: auto auto; */
         gap: 0;
         column-gap: 10px;
         grid-template-areas: "imgLine time"
