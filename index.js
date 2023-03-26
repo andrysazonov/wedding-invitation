@@ -83,11 +83,13 @@ const dict={
     },
 //45
     "gospozha-shrein":{
-        welcome: "Дорогая Оля!"
+        welcome: "Дорогая Оля!",
+        wedding:"Приглашаем тебя на нашу свадьбу"
     },
 //46
     "lublu-pivo":{
-        welcome: "Дорогой Денис!"
+        welcome: "Дорогой Денис!",
+        wedding:"Приглашаем тебя на нашу свадьбу"
     },
 //47
     "inna-lena":{
