@@ -20,6 +20,7 @@
         text-align: center;
         font-size: 32px;
         margin-bottom: 40px;
+        padding: 5px;
     }
 
     h3 {
@@ -30,12 +31,13 @@
         text-align: center;
         font-size: x-large;
         margin-bottom: 30px;
+        padding: 5px;
     }
 
     .welcome-text-main {
         text-align: center;
         font-size: 15px;
-        width: 95%;
+        padding: 5px;
         margin: auto;
         margin-bottom: 30px;
     }
@@ -43,7 +45,7 @@
     .welcome-text-date {
         text-align: center;
         font-size: 18px;
-        width: 95%;
+        padding: 5px;
         margin: auto;
         margin-bottom: 30px;
     }
@@ -183,7 +185,7 @@
 
     .colors {
         display: flex;
-        gap: 40px;
+        gap: 49px;
         flex-wrap: wrap;
         margin: 30px auto;
         justify-content: center;
